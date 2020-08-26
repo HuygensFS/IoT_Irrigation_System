@@ -1,4 +1,4 @@
-# IoT_Irrigation_System
+# IoT_Property_Supervision
 This project has the objective of implementing a OpenThread IoT network with low power requirements, mostly targeted for deployment in a rural property. It gathers sensor information and displays it to the user, aiming for a supervision of the property (detecting temperature, humidity, atmospheric pressure and even intrusion of animals).
 
 ## Materials
